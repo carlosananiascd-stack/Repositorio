@@ -1,2 +1,2 @@
 # Repositório criado
-Primeiro repositorio git/github
+Primeiro repositorio git/github!
